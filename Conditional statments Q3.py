@@ -7,4 +7,4 @@ array = [value1,value2,value3,value4,value5]
 
 print (max(array))
 print(min(array))
-#Thanks for your efforts Eng.Bahha
+#Thanks for your efforts Eng.Bahaa
